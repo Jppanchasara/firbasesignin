@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599361665087",
+    "project_id": "firbasesignin-f01d4",
+    "storage_bucket": "firbasesignin-f01d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599361665087:android:492bcbd9adfe26476d608a",
+        "android_client_info": {
+          "package_name": "com.example.firbasesignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDxEPtWhcEAyNkayyyfxPiiNmukwYL_XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
